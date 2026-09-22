@@ -35,7 +35,7 @@ All materials, exploit scripts, and research reports in this repository are prov
 ## 💼 Commercial Audits & Services
 If you need an independent manual security audit for your smart contract, tokenomics logic, or decentralized game engine, feel free to contact me directly. High confidentiality and deep logic analysis guaranteed.
 
-📩 **Secure Contact:** [Your_Account]@gmail.com
+📩 **Secure Contact:** rastimeshin@gmail.com
 🌐 **Media Channel:** whiteHackAudit (Rutube)
 
 
